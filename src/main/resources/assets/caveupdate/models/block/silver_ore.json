@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "caveupdate:blocks/silver_ore"
+  }
+}
